@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SETO Open Console V2", "SETO Open Console V2\SETO Open Console V2.vbproj", "{ECF22E05-00FE-47FA-9236-08A41B2D28F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unirest-net (portable)", "..\..\..\Downloads\unirest-net-master\unirest-net-master\unirest-net\unirest-net (portable)\unirest-net (portable).csproj", "{B3CAC40B-7582-4058-8F65-197301EE6807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF22E05-00FE-47FA-9236-08A41B2D28F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF22E05-00FE-47FA-9236-08A41B2D28F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF22E05-00FE-47FA-9236-08A41B2D28F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF22E05-00FE-47FA-9236-08A41B2D28F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CAC40B-7582-4058-8F65-197301EE6807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CAC40B-7582-4058-8F65-197301EE6807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CAC40B-7582-4058-8F65-197301EE6807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CAC40B-7582-4058-8F65-197301EE6807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A2FCA83-3A88-4E67-B688-D517D068593F}
+	EndGlobalSection
+EndGlobal

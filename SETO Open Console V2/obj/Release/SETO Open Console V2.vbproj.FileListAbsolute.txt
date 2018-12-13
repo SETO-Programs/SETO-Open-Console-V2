@@ -1,0 +1,11 @@
+C:\Users\User\Documents\SETO Programs\SETO Open Console V2\SETO Open Console V2.exe.config
+C:\Users\User\Documents\SETO Programs\SETO Open Console V2\SETO Open Console V2.exe
+C:\Users\User\Documents\SETO Programs\SETO Open Console V2\SETO Open Console V2.pdb
+C:\Users\User\Documents\SETO Programs\SETO Open Console V2\SETO Open Console V2.xml
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Release\SETO Open Console V2.vbprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Release\SETO_Open_Console_V2.Resources.resources
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Release\SETO Open Console V2.vbproj.GenerateResource.Cache
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Release\SETO Open Console V2.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Release\SETO Open Console V2.exe
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Release\SETO Open Console V2.xml
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Release\SETO Open Console V2.pdb

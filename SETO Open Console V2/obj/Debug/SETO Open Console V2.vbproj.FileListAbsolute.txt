@@ -1,0 +1,30 @@
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\SETO Open Console V2.exe.config
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\SETO Open Console V2.exe
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\SETO Open Console V2.pdb
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\SETO Open Console V2.xml
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\RapidAPISDK.dll
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Debug\SETO Open Console V2.vbprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Debug\SETO_Open_Console_V2.Resources.resources
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Debug\SETO Open Console V2.vbproj.GenerateResource.Cache
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Debug\SETO Open Console V2.vbproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Debug\SETO Open Console V2.exe
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Debug\SETO Open Console V2.xml
+c:\users\user\source\repos\SETO Open Console V2\SETO Open Console V2\obj\Debug\SETO Open Console V2.pdb
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\unirest-net.dll
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\unirest-net.pdb
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\unirest-net.dll.config
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\PdfSharp.Charting.dll
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\PdfSharp.dll
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\PdfSharp.xml
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\PdfSharp.Charting.xml
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\User\source\repos\SETO Open Console V2\SETO Open Console V2\bin\Debug\ConsoleDraw.dll
